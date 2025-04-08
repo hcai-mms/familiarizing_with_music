@@ -12,11 +12,11 @@ If you use the dataset and/or code please cite the paper as
 ```
 @inproceedings{Moscati2025familiarizing,
     title = {Familiarizing with Music: Discovery Patterns for Different Music Discovery Needs},
-    author = {Moscati, Marta and Schedl, Markus and Afchar, Darius and Sguerra, Bruno},
+    author = {Moscati, Marta and Afchar, Darius and Schedl, Markus and Sguerra, Bruno},
     booktitle = {Proceedings of the 33nd ACM Conference on User Modeling, Adaptation and Personalization (UMAP)},
     publisher = {Association for Computing Machinery},
     address = {New York, NY, USA},
-    doi = {to_be_added},
+    doi = {10.1145/3699682.3728333},
     location = {New York, NY, US},
     year = {2025}
 }
